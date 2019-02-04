@@ -1,0 +1,12 @@
+#home_img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#logout_btn {
+	position: absolute;
+	right: 40px;
+	top: 50%;
+	margin-top: -10px;
+}
